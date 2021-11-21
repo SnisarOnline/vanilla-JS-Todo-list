@@ -6,7 +6,6 @@
 //                  Plugins
 //----------------------------------------------
 const gulp      = require('gulp'); // Сообственно Gulp JS;
-const livereload = require('gulp-livereload'); // Livereload для Gulp работает через плагин в браузере
 const browserSync = require('browser-sync').create(); //подключили в проект и вызвали
 
 
