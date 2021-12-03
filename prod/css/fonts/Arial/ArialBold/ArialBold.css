@@ -1,0 +1,11 @@
+/* Connect font "Arial-Bold"; */
+@font-face {
+  font-family: 'Arial';
+  src: local("ArialBold"), local("ArialBold"),
+	  url('../ArialBold/ArialBold.eot'),
+	  url('../ArialBold/ArialBold.eot?#iefix') format('embedded-opentype'),
+	  url('../ArialBold/ArialBold.woff') format('woff'),
+	  url('../ArialBold/ArialBold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
