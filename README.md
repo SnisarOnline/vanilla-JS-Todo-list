@@ -2,6 +2,9 @@
 
 ## Libs : 
   - icon [gitHub](https://github.com/thomaspark/glyphsearch/) [web.com](https://glyphsearch.com/)
+
+## how it works  
+  Site is published at https://snisaronline.github.io/vanilla-JS-Todo-list/
   
 ## Run Client :
 
